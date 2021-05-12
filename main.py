@@ -5,7 +5,7 @@ import discord
 from connect import send_connect
 from endpug import teams_to_picking
 from fatkid import post_fatkids
-from keep_alive import keep_alive, clear_testing_dms
+from keep_alive import keep_alive
 from consolidate import consolidate_pugs
 
 # import timeout
